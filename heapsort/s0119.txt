@@ -1,0 +1,14 @@
+Script started on Thu Jan 19 09:57:27 2017
+command: /bin/bash
+[?1034hbash-3.2$ ./a.out 100
+141313567
+bash-3.2$ ./a.out 500
+706567835
+bash-3.2$ ./a.out 1000
+1413135670
+bash-3.2$ ./a.out 2000
+331427543
+bash-3.2$ exit
+exit
+
+Script done on Thu Jan 19 09:57:55 2017
